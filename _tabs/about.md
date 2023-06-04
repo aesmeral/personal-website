@@ -17,7 +17,7 @@ order: 4
   : Deployed key upgrades to enterprise applications using the CD methodology for both production and staging servers. Additionally, I managed and supported several hundred stage and production Red Hat Enterprise Linux and Window Enterprise servers, ensuring their stability and efficiency. I created and refactored automated UI testing scripts via Python Selenium to ensure the healthiness of our production web application, identifying issues before they reached our customers. Furthermore, I created Python scripts to automate processes for the internal team, streamlining recurring tasks and improving overall productivity.
 
 # Education
-### <i>California Statue University, Los Angeles</i>
+### <i>California State University, Los Angeles</i>
 - Masters of Science, Computer Science 
 - Incoming part-time student
 
