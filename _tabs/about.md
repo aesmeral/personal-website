@@ -3,7 +3,7 @@
 icon: fas fa-info-circle
 order: 4
 ---
- Greetings! I'm Anthony Esmeralda, a software engineer who thrives on transforming complex problems into intuitive and elegant solutions. With two years of experience under my belt, I'm always pushing myself to explore new technologies and develop cutting-edge software that inspires and empowers users. When I'm not debugging code, you can find me listening to tech podcasts and reading technical books, which help me stay creative and motivated. I believe that great software is more than just code; it's about understanding the needs of the user and creating a seamless experience that solves real-world problems. That's why I approach every project with a collaborative and communicative mindset, working closely with my team to develop software that truly makes a difference. Let's connect and see what amazing things we can create together!
+ Greetings! I'm Anthony Esmeralda, a software engineer who thrives on transforming complex problems into intuitive and elegant solutions. With two years of experience under my belt, I'm always pushing myself to explore new technologies and develop cutting-edge software that inspires and empowers users. When I'm not debugging code, you can find me listening to tech podcasts and reading technical books, which help me stay creative and motivated. I believe that great software is more than just code; it's about understanding the needs of the user and creating a seamless experience that solves real-world problems. That's why I approach every project with a collaborative and communicative mindset, working closely with my team to develop software that truly makes a difference. Let's connect and see what amazing things we can create together! And before you leave, don't forget to take a look at my [resume!](https://docs.google.com/document/d/1mvTkW5rKDdkjTr9YzWJ9Q0veQT3L_rix/edit?usp=sharing&ouid=105487017319620066781&rtpof=true&sd=true){:target="_blank"}
 
 # Professional Experience
 ### <i>Housecall Pro</i>
@@ -19,12 +19,15 @@ order: 4
 # Education
 ### <i>California State University, Los Angeles</i>
 - Masters of Science, Computer Science 
-- Incoming part-time student
+- Area of Focus: Artificial Intelligence and Machine Learning
+- In Progress
 
 ### <i>University of California, Irvine</i>
 - Bachelor of Science, Computer Science
-- Major/Overall GPA: 3.7/3.47 
+- Major/Overall GPA: 3.7/3.47
+- Graduated June 2020
 
 ### <i>Mount San Antonio College</i>
 - Transfer, Computer Science 
 - Overall GPA: 3.7
+- Transferred 2018

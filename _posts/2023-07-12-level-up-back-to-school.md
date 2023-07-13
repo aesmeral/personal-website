@@ -19,7 +19,7 @@ There are multiple answers... To become more educated, more job opportunities by
 
 ## What area of focus did you choose and why?
 
-I chose my area of focus to be Artificial Intelligence. During my undergraduate, I always thought that AI was just a fad... I took an introduction to AI class and just found it boring but that might be because the professor showed a lack of enthusiasm on the topic. But one of the project assignments was to build an AI to beat the game [Wumpus World](https://thiagodnf.github.io/wumpus-world-simulator/) which I thought was cool (lots of conditionals).
+I chose my area of focus to be Artificial Intelligence. During my undergraduate, I always thought that AI was just a fad... I took an introduction to AI class and just found it boring but that might be because the professor showed a lack of enthusiasm on the topic. But one of the project assignments was to build an AI to beat the game [Wumpus World](https://thiagodnf.github.io/wumpus-world-simulator/){:target="_blank"} which I thought was cool (lots of conditionals).
 
 However, with the explosion of chatGPT, all the applications that came out of that, and the new opportunities that followed... I feel that it kind of makes sense to do that versus focusing on web development which I feel is VERY saturated with engineers with all sorts of backgrounds. In addition to that, while working at my current job (Housecall Pro) I've taken quite a liking to "data". Such as the value that they bring to the business and being able to predict the outcomes based on what we currently know (modeling?).
 
