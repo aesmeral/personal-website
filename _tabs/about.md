@@ -24,6 +24,7 @@ order: 4
 
 ### <i>University of California, Irvine</i>
 - Bachelor of Science, Computer Science
+- Specialization: [Systems and Software](https://catalogue.uci.edu/donaldbrenschoolofinformationandcomputersciences/departmentofcomputerscience/computerscience_bs/){:target="_blank} 
 - Major/Overall GPA: 3.7/3.47
 - Graduated June 2020
 
