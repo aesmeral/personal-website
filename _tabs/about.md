@@ -7,7 +7,9 @@ order: 4
 
 # Professional Experience
 ### <i>Housecall Pro</i>
-- Software Engineer II | October 01, 2022 - Present
+- Senior Software Engineer | November 01, 2023 - Present
+  : Work in Progress -- still trying to figure it out. 
+- Software Engineer II | October 01, 2022 - November 01, 203
   : Successfully led high-impact initiatives that delivered significant value to our business, including developing productivity-boosting features and a custom Rails gem that streamlined our user authentication and authorization process for internal applications. By designing and implementing features using integration events and event sourcing patterns, I've maintained a Domain Driven Design (DDD) architecture within a large-scale monolithic repo and mentored junior software engineers along the way. As the overseer of the code release process, I've ensured seamless integration and compatibility of our team's code, knowing that our efforts are making a meaningful impact on the company.
 - Software Engineer I | January 26, 2022 - October 01, 2022
   : Made significant improvements to the onboarding and workflow processes for customer support, sales representatives, and virtual assistant employees. By developing Okta SSO and SCIM provisioning, I streamlined the onboarding process, successfully processing an estimated 100-120 new accounts per month. In addition, I overhauled the internal application roles and permissions system, restricting employee access as needed to ensure security and privacy. By developing and releasing multiple new features using feature flags, I have greatly improved the daily workflow for internal employees, resulting in increased productivity and efficiency.
@@ -17,11 +19,6 @@ order: 4
   : Deployed key upgrades to enterprise applications using the CD methodology for both production and staging servers. Additionally, I managed and supported several hundred stage and production Red Hat Enterprise Linux and Window Enterprise servers, ensuring their stability and efficiency. I created and refactored automated UI testing scripts via Python Selenium to ensure the healthiness of our production web application, identifying issues before they reached our customers. Furthermore, I created Python scripts to automate processes for the internal team, streamlining recurring tasks and improving overall productivity.
 
 # Education
-### <i>California State University, Los Angeles</i>
-- Masters of Science, Computer Science 
-- Area of Focus: Artificial Intelligence and Machine Learning
-- In Progress
-
 ### <i>University of California, Irvine</i>
 - Bachelor of Science, Computer Science
 - Specialization: [Systems and Software](https://catalogue.uci.edu/donaldbrenschoolofinformationandcomputersciences/departmentofcomputerscience/computerscience_bs/){:target="_blank} 
